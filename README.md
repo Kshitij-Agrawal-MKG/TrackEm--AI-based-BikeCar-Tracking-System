@@ -49,12 +49,12 @@ Make sure you have the following prerequisites installed:
 4. Set up Gmail API credentials:
 
     - Follow the [Gmail API Python Quickstart](https://developers.google.com/gmail/api/quickstart) to obtain the credentials file.
-    - Save the credentials file as `gmail_credentials.json` in the project directory.
+    - Save the credentials in message.py file in the project directory.
 
 5. Set up Telegram API credentials:
 
     - Create a Telegram bot using the [BotFather](https://core.telegram.org/bots#botfather).
-    - Save the API token in a file named `telegram_token.txt` in the project directory.
+    - Save the credentials in message.py file in the project directory.
 
 6. Configure other project settings:
 
